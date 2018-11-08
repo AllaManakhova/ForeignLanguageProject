@@ -1,0 +1,41 @@
+.root{
+    -fx-background-color: #FAFAD2
+}
+
+/*.text-area{
+    -fx-focus-color: transparent; 
+    -fx-faint-focus-color: transparent;
+    -fx-color: transparent
+    
+}*/
+
+.text-area{ 
+    -fx-background-color: #FAFAD2, #FAFAD2; 
+} 
+
+.text-area .content { 
+    -fx-background-color: #FAFAD2; 
+} 
+
+.text-area:hover { 
+    -fx-background-color: #FAFAD2; 
+} 
+
+.menu-bar{
+    -fx-background-color: #9ACD32
+}
+
+.menu-bar:focused {
+    -fx-background-color: -fx-focus-color;
+}
+
+.menu-item:focused {
+    -fx-background-color: #9ACD32;
+}
+
+.hbox {
+    -fx-background-color: #9ACD32
+}
+
+
+

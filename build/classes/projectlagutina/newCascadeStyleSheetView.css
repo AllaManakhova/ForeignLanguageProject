@@ -1,0 +1,13 @@
+.vocablary{
+    -fx-background-color: bisque;
+    -fx-focused-color: red;
+}
+
+.labelHead{
+    -fx-text-fill: #9ACD32;
+    -fx-font-weight: bold;
+    -fx-font-size: 30;
+}
+
+
+
